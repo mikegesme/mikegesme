@@ -33,13 +33,13 @@ var files = {
         src: [
             'build/js/components/**/*.js'
         ],
-        dest: 'htdocs/assets/js'
+        dest: 'docs/assets/js'
     },
 
     css: {
         name: 'main.css',
         src:  'build/scss/**/**/*.scss',
-        dest: 'htdocs/assets/css'
+        dest: 'docs/assets/css'
     },
 
     html: {
